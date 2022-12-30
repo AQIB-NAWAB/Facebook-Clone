@@ -1,0 +1,11 @@
+.App{
+   background-color: aliceblue;
+}
+.app_body{
+    display: flex;
+ 
+}
+*{
+    box-sizing: border-box;
+
+}

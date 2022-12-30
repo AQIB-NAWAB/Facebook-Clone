@@ -1,0 +1,13 @@
+.contact_row{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    padding: 10px;
+}
+.contact_row:hover{
+    background-color: rgb(219, 219, 219);
+}
+.contact_row p{
+    margin-left: 10px;
+    font-weight: 500;
+}

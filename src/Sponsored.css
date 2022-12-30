@@ -1,0 +1,38 @@
+.sponsored_container{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin-top: 3px;
+    transition: 0.2s ;;
+    align-items: center;
+    border-radius: 17px;
+
+}
+.sponsored_container:hover{
+    background-color:rgba(216, 215, 215, 0.673);
+
+}
+.image_sponsored {
+    width: 50%;
+    height: 100%;
+}
+.image_sponsored img{
+    width: 100%;
+    border-radius: 10px;
+    height: 110px;
+
+
+}
+.info_sponsored{
+    margin-left: 10px;
+}
+.info_sponsored p{
+    color: gray;
+    font-size: smaller;
+}
+.info_sponsored h3{
+    font-size: medium;
+    color: black;
+    font-weight: 400;
+}

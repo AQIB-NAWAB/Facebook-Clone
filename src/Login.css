@@ -1,0 +1,93 @@
+.main{
+   width: 100%;
+   height: 100vh;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color: rgb(236, 236, 236);
+}
+.logo_section img{
+    width: 350px;
+}
+.logo_section p{
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 60px;
+}
+.form_section{
+    text-align: center;
+
+}
+.form_section form{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 7px rgb(110, 110, 110);
+    padding: 10px 40px;
+    border: 1px solid rgb(204, 202, 202);
+
+
+}
+.form_section input{
+    height: 30px;
+    display: block;
+    width: 90%;
+    margin: 16px auto;
+    outline: none;
+    border: 1px solid rgb(182, 182, 182);
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.form_section input::placeholder{
+    color: rgb(161, 161, 161);
+    font-size: 18px;
+}
+.form_section input:focus{
+    border: 1px solid #5089d3;
+    box-shadow: 1px 1px 3px #6983a5;
+}
+.form_section button{
+    display: block;
+    height: 45px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    margin: 10px auto;
+}
+#login{
+    width: 100%;
+    background-color: #1774ee;
+    font-size: 20px;
+
+}
+#account{
+    width: 65%;
+    background-color: #42b72a;
+    font-size: 16px;
+
+}
+hr{
+    width: 90%;
+    margin: 0px auto;
+
+}
+@media (max-width:720px) {
+    .main{
+        display: block;
+    }
+    .logo_section img{
+        width: 40%;
+        margin: 10px auto;
+    }
+    .logo_section p{
+        font-size: 10px;
+        margin: 0px 10px;
+
+    }
+    .form_section{
+        margin: 50px 0px;
+    }
+}
