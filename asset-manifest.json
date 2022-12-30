@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AQIB-NAWAB/Facebook-Clone.git/static/css/main.eed8741d.css",
+    "main.js": "/AQIB-NAWAB/Facebook-Clone.git/static/js/main.3d956bf5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AQIB-NAWAB/Facebook-Clone.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AQIB-NAWAB/Facebook-Clone.git/index.html",
+    "main.eed8741d.css.map": "/AQIB-NAWAB/Facebook-Clone.git/static/css/main.eed8741d.css.map",
+    "main.3d956bf5.js.map": "/AQIB-NAWAB/Facebook-Clone.git/static/js/main.3d956bf5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AQIB-NAWAB/Facebook-Clone.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed8741d.css",
+    "static/js/main.3d956bf5.js"
+  ]
+}
